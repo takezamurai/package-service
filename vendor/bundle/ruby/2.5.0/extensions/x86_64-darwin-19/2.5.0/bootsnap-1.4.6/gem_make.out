@@ -1,0 +1,15 @@
+current directory: /Users/takeo/onimotsu/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/takeo/.rbenv/versions/2.5.8/bin/ruby -r ./siteconf20200522-49111-1ebxk0a.rb extconf.rb
+creating Makefile
+
+current directory: /Users/takeo/onimotsu/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/takeo/onimotsu/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/takeo/onimotsu/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200522-49111-i5y4of/bootsnap
